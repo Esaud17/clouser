@@ -1,0 +1,16 @@
+{
+  "name": "scraperapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node bch.js",
+  "scripts": {
+    "test": "node bch.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-array-to-csv": "^1.0.9",
+    "safe-eval": "^0.4.1",
+    "scraperjs": "^1.2.0"
+  }
+}
